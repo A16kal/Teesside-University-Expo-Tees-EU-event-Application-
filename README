@@ -1,0 +1,23 @@
+Expo-Tees Event Registration System
+Overview
+As part of my first-year undergraduate project in Business Technology BSc at Teesside University, I developed the Expo-Tees Event Registration System. This project aimed to enhance the efficiency and user experience of the registration process for the Expo-Tees event, a key showcase of student work and industry partnerships. By integrating SQL Server for backend database management, the system offered a streamlined solution for guest check-in, facilitated real-time data access, and ensured seamless integration with the university's existing CRM systems.
+
+Features
+Efficient Guest Check-In: Simplifies the registration and check-in process for guests, reducing wait times and improving overall event flow.
+Real-Time Data Access: Provides organizers with instant access to registration data, enabling dynamic management of event attendance and participant engagement.
+CRM System Integration: Seamlessly connects with Teesside University's CRM systems, ensuring consistent data management and enhanced communication capabilities.
+Technologies Used
+SQL Server: Utilized for robust backend database management, supporting complex data structures and ensuring data integrity.
+Object-Oriented Programming (OOP): Employed to develop the system with a focus on modularity, reusability, and maintainability.
+Unified Modeling Language (UML): Used for modeling and design, facilitating clear visualization of system architecture and data flow.
+Agile Development Practices
+The project was developed using agile methodologies, focusing on flexibility, iterative development, and stakeholder engagement. Key agile practices included:
+
+Iterative Development: The system was built in iterations, allowing for continuous refinement based on user feedback and changing requirements.
+User Feedback: Emphasis on collecting and incorporating user feedback to ensure the system meets the needs of its users effectively.
+Agile Documentation: Comprehensive documentation, including UML diagrams, was maintained to support agile development and ensure clear communication among team members.
+Conclusion and Acknowledgments
+This project not only served to enhance the Expo-Tees event management process but also provided valuable insights into the application of business technology in addressing real-world challenges. I would like to extend my gratitude to the faculty and industry professionals at Teesside University who offered guidance and support throughout this project. Their expertise was instrumental in the successful development and implementation of the Expo-Tees Event Registration System.
+
+Conclusion and Acknowledgments
+This project not only served to enhance the Expo-Tees event management process but also provided valuable insights into the application of business technology in addressing real-world challenges. I would like to extend my gratitude to the faculty and industry professionals at Teesside University who offered guidance and support throughout this project. Their expertise was instrumental in the successful development and implementation of the Expo-Tees Event Registration System.
